@@ -75,10 +75,20 @@ body {
 .flex-fill {
   flex: 1 1 auto;
 }
+.flex-50 {
+  flex: 1 1 50%;
+}
 
 //utils
 .p-10 {
   padding: 10px;
+}
+.pr-10 {
+  padding-right: 10px;
+}
+
+.pl-10 {
+  padding-left: 10px;
 }
 
 .p-20 {
